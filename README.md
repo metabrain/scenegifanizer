@@ -13,4 +13,4 @@ Requirements
 Usage
 -----
 
-  gifanize video.mp4
+    gifanize video.mp4
